@@ -26,6 +26,7 @@ D. Draw a scatter plot of the natural log of total expenditures against the natu
 
 
 
+
 Task 2:
 
 A) Find the Proportion of Households with At Least One Child.
@@ -52,5 +53,6 @@ C. Among the households whose heads have a Bachelor’s degree, what is the prob
 D. Among the households whose heads are male, what is the probability that the household head has a Master’s degree as the highest educational degree?
 
 E.  Do you think that the two events "the gender of the household head is female" and "the highest educational degree of the household head is primary school certificate" are independent of each other? Justify your answer briefly.
+
 
 

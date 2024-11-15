@@ -7,7 +7,7 @@ This dataset contains information expenditure in different categories, demograph
  
 ![image](https://github.com/user-attachments/assets/a5e29d3b-2ef4-4370-ba80-7b63583d5697)
 
-KPI's:
+KPI's that we have solved in the case study are as follows:
 
 Task 1:
 

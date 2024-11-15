@@ -10,6 +10,7 @@ This dataset contains information expenditure in different categories, demograph
 KPI's:
 
 Task 1:
+
 A.	Draw a unique random sample of two hundred and fifty (250) households following the instruction sheet available with the unprocessed data set.
 
 B.  Compute the descriptive statistics for the following four expenditure variables.
@@ -24,7 +25,9 @@ D. Draw a scatter plot of the natural log of total expenditures against the natu
 
 
 
+
 Task 2:
+
 A) Find the Proportion of Households with At Least One Child.
 
 B) Find the Proportion of Households with Exactly One Adult.
@@ -37,9 +40,17 @@ E)  Among the households consisting of only one adult and at least one child (th
 
 
 
+
 Task 3: Household head's education
+
 A.	Construct a contingency table between the gender and the highest educational degree of the household head.
+
 B.  What is the probability that a randomly chosen head of a household is female and her highest degree is Bachelors?
+
 C. Among the households whose heads have a Bachelor’s degree, what is the probability that the household head is female?
+
 D. Among the households whose heads are male, what is the probability that the household head has a Master’s degree as the highest educational degree?
+
 E.  Do you think that the two events "the gender of the household head is female" and "the highest educational degree of the household head is primary school certificate" are independent of each other? Justify your answer briefly.
+
+
